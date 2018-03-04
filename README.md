@@ -2,7 +2,7 @@
 
 This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube.
 
-I use this curriculum to revise and to teach ML to my fellow batchmates.
+#### I use this curriculum to revise and to teach ML to my fellow batchmates.
 
 # Month 1
 
